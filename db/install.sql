@@ -1,6 +1,6 @@
--- CIFullCalendar v3 SQL Dump
--- version 3.5.5.0 
--- http://www.cifullcalendar.com/v3
+-- CIFullCalendar v2 SQL Dump
+-- version 2.6.5.0
+-- http://www.cifullcalendar.com/v2
 --
 -- Host: localhost
 -- Generation Time: Jun 20, 2017 at 08:37 PM
