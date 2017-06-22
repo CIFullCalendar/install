@@ -326,7 +326,7 @@ if($_POST) {
 	<script src="./assets/js/sidebar.js"></script> 		
      </div>
       <footer class="doc-footer"> 
-		<p>CIFullcalendar v3 - created and maintained by <a href="https://www.sirdre.com">Sir.Dre</a></p> 
+		<p>CIFullcalendar v2 - created and maintained by <a href="https://www.sirdre.com">Sir.Dre</a></p> 
       </footer>
     </div>
   </div>
