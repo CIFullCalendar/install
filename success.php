@@ -111,7 +111,7 @@
 			</blockquote>	 
 		</figure>	
 		
-	<p>Thank you for your support and purchase of &ldquo;CIFullcalendar v3&rdquo;. If you have any questions that are beyond the scope of this help file, please feel free to email. Thanks so much! No guarantees, but I'll do my best to assist.</p> 
+	<p>Thank you for your support and purchase of &ldquo;CIFullcalendar v2&rdquo;. If you have any questions that are beyond the scope of this help file, please feel free to email. Thanks so much! No guarantees, but I'll do my best to assist.</p> 
 
 	<div id="sourcesandcredits">
 	<h2 id="sources-and-credits" >Sources and Credits</h2>
